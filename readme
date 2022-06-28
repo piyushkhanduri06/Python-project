@@ -1,0 +1,5 @@
+to run this project on server you should have streamlit python package  installed .
+open terminal on location you have saved the project
+type command : streamlit run app.py
+this project only takes input of the stocks present in yahoo.finance. 
+although the project is made in jupyter notebook but to make a user interface with streamlit, pycharm is used so as to ensure smooth flow of data through backend.
